@@ -1,4 +1,6 @@
-![GitHub Header loaezo](https://github.com/Loaezo/loaezo/blob/main/assets/loaezo.png)
+<p align="center">
+<a href="https://github.com/loaezo"><img src = "./assets/loaezo.png"> </a>
+</p>
 
 <p align="center">
 </p>
