@@ -55,10 +55,10 @@ Here are some of my group projects developed during the Mastery stage at Platzi 
 
 
 ---
-
+<div align="center">
 <h3>Here are the languages I use:</h3>
 <br>
-<div align="center">
+
 <a href="https://github.com/loaezo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaezo&theme=dracula&count_private=true&hide=css,blade" alt="loaezo's GitHub Stats" />
 </a>
