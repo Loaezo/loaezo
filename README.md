@@ -40,11 +40,11 @@ Here are some of my group projects developed during the Mastery stage at Platzi 
   <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=white" alt="apple" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-success?style=for-the-badge&logo=python&logoColor=white" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/django-red?style=for-the-badge&logo=Django&logoColor=white" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku-blueviolet?style=for-the-badge&logo=heroku&logoColor=white" alt="CSS" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/flask-gray?style=for-the-badge&logo=Flask&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgresql-1572B6?style=for-the-badge&logo=postgresql&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku-blueviolet?style=for-the-badge&logo=heroku&logoColor=white" alt="CSS" />&nbsp;&nbsp;
 </p>
 
 ---
