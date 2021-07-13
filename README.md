@@ -27,7 +27,7 @@ I am a Python Backend Developer and I'm passionate about continuous learning and
 ***
 
 ## Projects 🚀
-Here are some of my group projects developed during the Mastery stage at Platzi Master, created alog with other amazing developers. Soon I'll be uploading some other personal and group projects, so stay tuned!<br>
+Here are some of my group projects developed during the Mastery stage at Platzi Master, created along with other amazing developers. Soon I'll be uploading some other personal and group projects, so stay tuned!<br>
 <li> <a href="https://cryptotracker-master.netlify.app/">Cryptotracker</a></li>
 <li> <a href="https://ghibli-tracker.herokuapp.com/">Ghibli tracker</a></li>
 </p>
