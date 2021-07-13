@@ -36,23 +36,16 @@ Here are some of my group projects developed during the Mastery stage at Platzi 
 
 
 <h3>👨‍💻 Tools I commonly use</h3>
-
-![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-
-![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
-
-![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=fff)
-
-![Django](https://img.shields.io/badge/_-Django-292e33?style=flat-square&logo=Django&logoColor=fff)
-
-![Flask](https://img.shields.io/badge/_-Flask-292e33?style=flat-square&logo=Flask&logoColor=fff)
-
-![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
-
-![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
-
-![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=white" alt="apple" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-success?style=for-the-badge&logo=python&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/django-red?style=for-the-badge&logo=Django&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku-blueviolet?style=for-the-badge&logo=heroku&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/flask-gray?style=for-the-badge&logo=Flask&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgresql-1572B6?style=for-the-badge&logo=postgresql&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+</p>
 
 ---
 <div align="center">
