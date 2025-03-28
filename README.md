@@ -20,7 +20,7 @@ I am a Python Backend Developer and I'm passionate about continuous learning and
 <br>
 <br>
 <b>Are you thinking of creating something together? </b> Let's do it! Feel free to contact me via  mail
- <a href="mailto:luis.loaeza.dev@gmail.com">luis.loaeza@hotmail.com </a>or <a href="https://www.linkedin.com/in/loaezo/">Linkedin</a>!
+ <a href="mailto:luis.loaeza.dev@gmail.com">luis.loaeza.dev@gmail.com </a>or <a href="https://www.linkedin.com/in/loaezo/">Linkedin</a>!
  <br>
 <br>
 
